@@ -53,5 +53,3 @@ Taggen `<fieldset>` brukes for å gruppere relaterte felter sammen. Dette gir be
 - Bruk `<legend>` for å gi en overskrift til gruppen med felter.
 - `required` gjør feltet obligatorisk.
 - Gruppér relaterte felter med `<fieldset>` for bedre struktur og tilgjengelighet.
-
-Nå har du et oversiktlig og brukervennlig HTML-skjema!
