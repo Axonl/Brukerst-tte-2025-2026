@@ -24,7 +24,7 @@ Taggen `<fieldset>` brukes for å gruppere relaterte felter sammen. Dette gir be
 
 ![](Login.png)
 
-### Kodeeksempel
+### Kode
 
 ```html
 <!DOCTYPE html>
